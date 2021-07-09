@@ -1,4 +1,4 @@
-package by.training.task03.control;
+package by.training.task03.view;
 
 import by.training.task03.customarray.creator.CustomArrayCreator;
 import by.training.task03.customarray.entity.CustomArray;

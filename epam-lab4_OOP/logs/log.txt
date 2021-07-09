@@ -1,0 +1,75 @@
+08 Jul 2021 23:55:07,945 [main] INFO  CountryCreator - Creating array entity from file cities.txt.
+08 Jul 2021 23:55:41,873 [main] INFO  CountryCreator - Creating array entity from file cities.txt.
+08 Jul 2021 23:56:37,310 [main] INFO  CountryCreator - Creating array entity from file cities.txt.
+09 Jul 2021 01:41:39,343 [main] INFO  CountryCreator - Creating array entity from file cities.txt.
+09 Jul 2021 01:52:16,924 [main] INFO  CountryCreator - Creating array entity from file cities.txt.
+09 Jul 2021 01:53:37,665 [main] INFO  CountryCreator - Creating array entity from file cities.txt.
+09 Jul 2021 04:05:48,373 [main] INFO  CountryCreator - Creating array entity from file cities.txt.
+09 Jul 2021 04:05:48,375 [main] INFO  CountryCreator - Reading from file cities.txt.
+09 Jul 2021 04:05:48,376 [main] ERROR Main - Validation error: file does not exist.
+09 Jul 2021 04:06:01,898 [main] INFO  CountryCreator - Creating array entity from file cities.txt.
+09 Jul 2021 04:06:01,901 [main] INFO  CountryCreator - Reading from file cities.txt.
+09 Jul 2021 04:06:01,902 [main] ERROR Main - Validation error: file does not exist.
+09 Jul 2021 04:06:25,669 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 04:06:25,669 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 04:06:25,669 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 04:09:36,970 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 04:09:36,973 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 04:09:36,975 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 04:10:15,595 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 04:10:15,598 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 04:10:15,599 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 04:11:21,988 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 04:11:21,988 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 04:11:21,988 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 04:16:38,230 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 04:16:38,230 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 04:16:38,230 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 15:00:45,836 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 15:00:45,840 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 15:00:45,841 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 15:01:29,265 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 15:01:29,271 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 15:01:29,272 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 15:01:34,255 [main] INFO  Main - Exit the program
+09 Jul 2021 15:01:56,559 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 15:01:56,559 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 15:01:56,565 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 15:02:00,595 [main] INFO  Main - Exit the program
+09 Jul 2021 15:16:58,443 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 15:16:58,443 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 15:16:58,448 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 15:18:01,458 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 15:18:01,463 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 15:18:01,463 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 15:18:25,223 [main] INFO  Main - Exit the program
+09 Jul 2021 15:19:49,158 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 15:19:49,163 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 15:19:49,163 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 15:20:46,752 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 15:20:46,755 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 15:20:46,755 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 15:21:09,605 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 15:21:09,608 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 15:21:09,609 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 15:21:15,443 [main] INFO  Main - Exit the program
+09 Jul 2021 15:27:57,520 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 15:27:57,522 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 15:27:57,524 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 15:28:12,412 [main] INFO  Main - Exit the program
+09 Jul 2021 15:39:11,790 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 15:39:11,790 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 15:39:11,790 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 15:39:16,091 [main] INFO  Main - Exit the program
+09 Jul 2021 18:56:22,780 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 18:56:22,784 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 18:56:22,785 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 18:56:27,569 [main] INFO  Main - Exit the program
+09 Jul 2021 20:14:13,597 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 20:14:13,603 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 20:14:13,605 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 20:14:17,237 [main] INFO  Main - Exit the program
+09 Jul 2021 20:38:29,695 [main] INFO  CountryCreator - Creating array entity from file input_files/cities.txt.
+09 Jul 2021 20:38:29,700 [main] INFO  CountryCreator - Reading from file input_files/cities.txt.
+09 Jul 2021 20:38:29,702 [main] INFO  CountryCreator - Parsing list of file lines.
+09 Jul 2021 20:40:38,672 [main] INFO  Main - Exit the program

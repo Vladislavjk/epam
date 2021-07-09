@@ -1,0 +1,5 @@
+805.23 City1 District1 Region1
+421.35 City2 District2 Region2
+9121.21 City3 District3 Region3
+41221.3121 City4 District4 Region4
+121.2121 City5 District5 Region5
