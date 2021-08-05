@@ -1,11 +1,11 @@
 package by.training.task05.bean;
 
-import by.training.task05.exception.CreateShapeException;
-import by.training.task05.observer.Observable;
-import by.training.task05.observer.Observer;
-import by.training.task05.observer.impl.TriangleObserver;
-import by.training.task05.util.IdGenerator;
-import by.training.task05.validator.TriangleValidator;
+import by.training.task05.service.exception.CreateShapeException;
+import by.training.task05.service.observer.Observable;
+import by.training.task05.service.observer.Observer;
+import by.training.task05.service.observer.impl.TriangleObserver;
+import by.training.task05.service.util.IdGenerator;
+import by.training.task05.service.validator.TriangleValidator;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,12 +21,12 @@ public class Triangle extends AbstractShape implements Observable<Observer<Trian
         observer = new TriangleObserver();
     }
 
-    public String getQuadrangleId() {
+    public String getTriangleId() {
         return triangleId;
     }
 
-    public void setQuadrangleId(String quadrangleId) {
-        this.triangleId = quadrangleId;
+    public void setTriangleId(String triangleId) {
+        this.triangleId = triangleId;
     }
 
     public List<Point2D> getPoints() {
