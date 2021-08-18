@@ -1,0 +1,12 @@
+In general, it is difficult to develop intuition about how the distribution of weights in
+a parametric regression model represents the data. Rather than induce distributions
+over variables, as we have seen in the previous chapter, we could instead induce
+distributions over functions. Specifically, we can express those intuitions using a
+“covariance kernel .”
+    We start by exploring Bayesian regression in a more general setup that enables
+us to easily move from a toy regression model to a more complex non-parametric
+Bayesian regression model, such as Gaussian process regression. By introducing
+Bayesian regression in more depth, we show how it extends many of the concepts
+in the previous chapter. We develop kernel based machine learning methods
+(specifically Gaussian process regression), and demonstrate their application to
+“surrogate” models of derivative prices.
